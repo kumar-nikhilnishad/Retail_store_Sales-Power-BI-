@@ -1,3 +1,5 @@
+![Retail_store_sales_dashboard](https://github.com/user-attachments/assets/3a51dbc8-3c69-4aba-a6fd-5705673d67f9)
+
 ## Retail Store Sales Analysis
 In this project, I combined the strengths of SQL for data extraction, Excel for cleaning and preliminary analysis, and Power BI for creating an interactive dashboard to uncover key business insights, such as:
 
